@@ -1,1 +1,3 @@
-List: videogames, go out with friends, food
+ - videogames
+ - go out with friends
+ - food
